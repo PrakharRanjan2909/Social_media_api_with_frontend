@@ -1,3 +1,6 @@
+![Screenshot (1279)](https://user-images.githubusercontent.com/92312146/207511510-79b01443-6f45-4d7c-8515-a11d55f2d53b.png)
+All APIs used in backend and tested
+
 ![Screenshot (1272)](https://user-images.githubusercontent.com/92312146/207511403-cdc5cb3f-8844-43ec-bb4b-2233bb829c39.png)
 Register the user
 
@@ -12,4 +15,4 @@ Posts have functionality to like dislike
 
 
 ![Screenshot (1277)](https://user-images.githubusercontent.com/92312146/207511498-ab49904f-48c1-4cf5-8f3b-c557eea731c8.png)
-![Screenshot (1279)](https://user-images.githubusercontent.com/92312146/207511510-79b01443-6f45-4d7c-8515-a11d55f2d53b.png)
+
